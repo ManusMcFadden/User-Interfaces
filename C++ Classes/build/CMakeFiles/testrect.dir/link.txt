@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/testrect.dir/testrect.cpp.o CMakeFiles/testrect.dir/rect.cpp.o  -o testrect 

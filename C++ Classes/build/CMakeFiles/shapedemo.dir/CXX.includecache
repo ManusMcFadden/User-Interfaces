@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/User-Interfaces/C++ Classes/circle2.hpp
+cmath
+-
+shape.hpp
+/workspaces/User-Interfaces/C++ Classes/shape.hpp
+
+/workspaces/User-Interfaces/C++ Classes/rect.hpp
+shape.hpp
+/workspaces/User-Interfaces/C++ Classes/shape.hpp
+
+/workspaces/User-Interfaces/C++ Classes/shape.hpp
+
+/workspaces/User-Interfaces/C++ Classes/shapedemo.cpp
+iostream
+-
+rect.hpp
+/workspaces/User-Interfaces/C++ Classes/rect.hpp
+circle2.hpp
+/workspaces/User-Interfaces/C++ Classes/circle2.hpp
+vector
+-
+shape.hpp
+/workspaces/User-Interfaces/C++ Classes/shape.hpp
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/shapedemo.dir/shapedemo.cpp.o CMakeFiles/shapedemo.dir/circle2.cpp.o CMakeFiles/shapedemo.dir/rect.cpp.o  -o shapedemo 

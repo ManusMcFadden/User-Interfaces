@@ -1,0 +1,4 @@
+/workspaces/User-Interfaces/C++ Classes/build/CMakeFiles/rebuild_cache.dir
+/workspaces/User-Interfaces/C++ Classes/build/CMakeFiles/edit_cache.dir
+/workspaces/User-Interfaces/C++ Classes/build/CMakeFiles/shapedemo.dir
+/workspaces/User-Interfaces/C++ Classes/build/CMakeFiles/testrect.dir
